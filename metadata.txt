@@ -1,0 +1,8 @@
+ip-172-31-39-230.us-east-2.compute.internal
+{
+  "Code" : "Success",
+  "LastUpdated" : "2023-02-22T20:23:13Z",
+  "InstanceProfileArn" : "arn:aws:iam::424099839052:instance-profile/SEIS_EC2_S3_FULLACCESS",
+  "InstanceProfileId" : "AIPAWFPSR7RGGPP667JFX"
+}
+launch-wizard-8
